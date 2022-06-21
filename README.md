@@ -22,9 +22,3 @@ The project idea was actually given by my dad who owns a liquor store himself. H
 - Run main.py: `$ python main.py` 
 - __In a separate terminal window, open up the app directory using `cd the_name_of_the_project_directory`__ and then, type: `python dashboard.py`
 - Click the link that pops up to see your live dashboard
-## Alternative
-- Go here: https://mega.nz/folder/CmhxCICY#9re-Dlwt03QYoFpdhWHJQg
-- Download the "App" folder as a zip
-- Extract the zip file
-- Open "Inputs.txt" file, enter the asked information (printer name, google sheet file name, google worksheet name).
-- Click on 'main.exe' to run the application
